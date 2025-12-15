@@ -1,4 +1,4 @@
-# 🕹️ Filipino Explorer
+# 🕹️ Filipino Explorers
 
 ## 🎮 Project Overview
 **Description:**  
